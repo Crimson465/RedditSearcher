@@ -1,0 +1,10 @@
+AskReddit
+news
+worldnews
+pics
+funny
+gaming
+politics
+funny
+todayilearned
+tifu
